@@ -7,9 +7,9 @@ by headless Firefox browser on connect to wireless access point ESSID - "MVCC
 Wireless"
 
 ### Dependencies ###
-   Firefox
-   \nPython 3.7
-   \nSelenium module (python)
+Firefox
+Python 3.7+
+Selenium (Python module / available from 'pip')
 
 ### Notes ###
 Until I work out the kinks with python grabbing a GPG encrypted portal login
