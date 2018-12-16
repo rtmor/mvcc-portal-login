@@ -9,7 +9,7 @@ Wireless"
 ### Dependencies ###
 Firefox
 Python 3.7+
-Selenium (Python module / available from 'pip')
+Selenium (Python module available in 'pip')
 
 ### Notes ###
 Until I work out the kinks with python grabbing a GPG encrypted portal login
