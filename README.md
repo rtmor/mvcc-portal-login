@@ -1,5 +1,3 @@
-# mvcc-portal-login
-
 # Wireless Captive Portal Login - MVCC #
 
 A small python script to automatically login to MVCC's wireless portal
@@ -7,8 +5,8 @@ by headless Firefox browser on connect to wireless access point ESSID - "MVCC
 Wireless"
 
 ### Dependencies ###
-Firefox,
-Python 3.7+,
+Firefox\
+Python 3.7+\
 Selenium (Python module available in 'pip')
 
 ### Notes ###
